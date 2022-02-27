@@ -35,7 +35,7 @@ rl.question('What\'s your name? Nicknames are also acceptable: ', (answer1) => {
               console.log(`Your superpower is ${answer7}`);
       
   rl.close();
-  
+
             })
           })
         })
@@ -45,43 +45,4 @@ rl.question('What\'s your name? Nicknames are also acceptable: ', (answer1) => {
 });
 
 
-//   rl.close();
-
-// });
-
-
-
-//   rl.close();
-
-// });
-
-// rl.question('What\'s your name? Nicknames are also acceptable : ', (answer) => {
-//   console.log(`Thank you for your answer: ${answer}`);
-
-// rl.question('What\'s your name? Nicknames are also acceptable : ', (answer) => {
-//   console.log(`Thank you for your answer: ${answer}`);
-
-// rl.question('What\'s your name? Nicknames are also acceptable : ', (answer) => {
-//   console.log(`Thank you for your answer: ${answer}`);
-
-// rl.question('What\'s your name? Nicknames are also acceptable : ', (answer) => {
-//   console.log(`Thank you for your answer: ${answer}`);
-
-// rl.question('What\'s your name? Nicknames are also acceptable : ', (answer) => {
-//   console.log(`Thank you for your answer: ${answer}`);
-
-// rl.question('What\'s your name? Nicknames are also acceptable : ', (answer) => {
-//   console.log(`Thank you for your answer: ${answer}`);
-
-//   rl.close();
-
-// });
-
-// // 
-// // 
-// // 
-
-
-
-
-// // https://github.com/nodejs/node/blob/master/doc/api/readline.md
+// https://github.com/nodejs/node/blob/master/doc/api/readline.md
